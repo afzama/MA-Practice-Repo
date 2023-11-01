@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <h1>Welcome to my pets collection!</h1>
+    <div class="flexBox">
+      <div>
+        <h2>Add an owner</h2>
+        <form id="newOwnerForm">
+          <input type="text" id="newOwnerName" placeholder="name" name="name" />
+          <input type="text" id="newOwnerCity" placeholder="city" name="city" />
+          <button>Add Owner</button>
+        </form>
+        <hr />
+        <ul id="owners"></ul>
+      </div>
+      <div>
+        <h2>Add a pet</h2>
+        <form id="newPetForm">
+          <input type="text" id="newPetName" placeholder="name" name="name" />
+          <input
+            type="text"
+            id="newPetBreed"
+            placeholder="breed"
+            name="breed"
+          />
+          <input
+            type="text"
+            id="newPetSpecies"
+            placeholder="species"
+            name="species"
+          />
+          <input
+            type="text"
+            id="newPetColor"
+            placeholder="color"
+            name="color"
+          />
+          <button>Add Pet</button>
+        </form>
+        <hr />
+        <ul id="pets"></ul>
+      </div>
+    </div>
+    <a href="/joe">goooo joeeeee</a>
+  </body>
+  <script src="/js/getPets.js"></script>
+  <script src="/js/getOwners.js"></script>
+</html>

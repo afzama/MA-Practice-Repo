@@ -1,0 +1,126 @@
+[
+    {
+        "id": 4,
+        "name": "Puppy",
+        "species": "Dog",
+        "breed": "Great Dane",
+        "color": "harlequin"
+    },
+    {
+        "id": 1,
+        "name": "Shiva",
+        "species": "Cat",
+        "color": "Tortie"
+    },
+    {
+        "id": 2,
+        "name": "Bahamut",
+        "species": "Cat",
+        "color": "Buff Tabby"
+    },
+    {
+        "id": 3,
+        "name": "Winston",
+        "species": "Dog",
+        "breed": "Golden Retriever",
+        "color": "Golden"
+    },
+    {
+        "id": 5,
+        "name": "Gefilte",
+        "species": "Fish",
+        "breed": "Betta",
+        "color": "Blue and Purple"
+    },
+    {
+        "id": 6,
+        "name": "luna",
+        "species": "dog",
+        "color": "black, white, and tan"
+    },
+    {
+        "id": 7,
+        "name": "luna",
+        "species": "dog",
+        "color": "black, white, and tan"
+    },
+    {
+        "id": "960eb715-0c37-4a02-9bb7-d697093881be",
+        "name": "koopa",
+        "species": "cat",
+        "color": "purple"
+    },
+    {
+        "id": "ff92c9d0-f879-456d-85aa-696d228b11d9",
+        "name": "Neko",
+        "species": "cat",
+        "breed": "shorthair",
+        "color": "tuxedo"
+    },
+    {
+        "id": "8c0d29c0-8720-421a-b3da-0899adb45f0e",
+        "name": "joe",
+        "species": "joejo",
+        "breed": "joe",
+        "color": "joe"
+    },
+    {
+        "id": "8db47d38-354d-4f83-8953-5ce206d01162",
+        "name": "cocoa",
+        "species": "dog",
+        "breed": "terrier mix",
+        "color": "brown"
+    },
+    {
+        "id": "dbd6480b-2bd9-46c3-9e5b-c5476276a7d6",
+        "name": "Ferdinand",
+        "species": "cat",
+        "breed": "stinky cat",
+        "color": "gray"
+    },
+    {
+        "id": "5bc9fc80-fa94-4bff-8046-5897fa4f69a3",
+        "name": "",
+        "species": "",
+        "breed": "",
+        "color": ""
+    },
+    {
+        "id": "f0ab4b76-17fe-4596-9f05-168a56002e2a",
+        "name": "Neko",
+        "species": "cat",
+        "breed": "shorthair",
+        "color": "tuxedo"
+    },
+    {
+        "id": "9eadf364-e69a-405e-b2e5-e23d07e4aa06",
+        "name": "Neko",
+        "species": "cat",
+        "breed": "shorthair",
+        "color": "tuxedo"
+    },
+    {
+        "id": "bdfa6e2f-9779-4910-ae96-d016e7be9b48",
+        "name": "gato",
+        "species": "cat",
+        "breed": "imaginary",
+        "color": "orange"
+    },
+    {
+        "id": "c62cdd0f-c0c7-4ac2-a38a-23d5a5c80b8d",
+        "name": "arra"
+    },
+    {
+        "id": "c6c4216e-f715-4455-8239-0a09f8e78a09",
+        "name": "horse",
+        "species": "dog",
+        "breed": "doberman",
+        "color": "black"
+    },
+    {
+        "id": "fc5b15b7-dd93-49c0-98e1-902816e31b67",
+        "name": "koopa",
+        "species": "cat",
+        "color": "purple"
+    }
+]

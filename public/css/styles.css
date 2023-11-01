@@ -1,0 +1,21 @@
+body {
+    background:salmon;
+    font-family: "Papyrus",sans-serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width:100%
+}
+h2{
+    text-align: center;
+}
+.flexBox {
+    display: flex;
+    justify-content: space-around;
+}
+.flexBox > *{
+    width:42%;
+    border:1px solid black;
+    border-radius: 5px;
+}
